@@ -1,8 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// #define long long long long
-
 const long long INF = 1e9;
 
 void solve() {
@@ -72,4 +70,5 @@ int main() {
     }
 
 }
+
 
